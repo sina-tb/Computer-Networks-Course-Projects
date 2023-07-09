@@ -1,0 +1,12 @@
+[submodule "CN_Homeworks_1"]
+	path = CN_Homeworks_1
+	url = https://github.com/sina-tb/CN_Homeworks_1.git
+[submodule "CN_CHomeworks_2"]
+	path = CN_CHomeworks_2
+	url = https://github.com/sina-tb/CN_CHomeworks_2.git
+[submodule "CN_CHomeworks3"]
+	path = CN_CHomeworks3
+	url = https://github.com/sina-tb/CN_CHomeworks3.git
+[submodule "CN_CHomeworks_4"]
+	path = CN_CHomeworks_4
+	url = https://github.com/sina-tb/CN_CHomeworks_4.git
